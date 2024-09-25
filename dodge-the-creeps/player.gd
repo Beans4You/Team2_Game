@@ -53,6 +53,8 @@ func start(pos):
 	show()
 	$CollisionShape2D.disabled = false
 
+
 func merge_conflict():
 	pass
+
 
