@@ -58,3 +58,7 @@ func merge_conflict():
 	pass
 
 
+func new_branch_test():
+	pass
+
+
